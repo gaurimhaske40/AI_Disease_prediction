@@ -1,0 +1,7 @@
+pip install pipreqs
+Then 
+Run Command pipreqs ai_disease_prediction_backend
+
+Then 
+Run
+pip install -r requirements.txt
