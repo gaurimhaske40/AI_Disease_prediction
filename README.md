@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/badge/status-active-brightgreen)
 
-## ✨ Developed by Bhushan
+## ✨ Developed by .....
 
 A full-stack **AI Disease Prediction** project that demonstrates training ML models (scikit-learn) and serving them via a **FastAPI** backend with a cross-platform **Flutter** frontend. The app predicts **Diabetes**, **Heart Disease**, and **Chronic Kidney Disease (CKD)** from user-entered clinical features and returns a user-friendly result + suggestion.
 
@@ -169,14 +169,6 @@ curl -X POST "http://127.0.0.1:8000/kidney/predict" \
 ## 🐟 License
 
 This project is open-source and available under the **MIT License**.
-
----
-
-## 💡 Contact
-
-* GitHub: [https://github.com/GamerBhushan](https://github.com/GamerBhushan)
-* LinkedIn: [https://in.linkedin.com/in/bhushankumavat](https://in.linkedin.com/in/bhushankumavat)
-* Instagram: [https://www.instagram.com/bhushankumavat\_/](https://www.instagram.com/bhushankumavat_/)
 
 ---
 
